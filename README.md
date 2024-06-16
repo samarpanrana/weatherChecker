@@ -1,3 +1,3 @@
 # Weather checker
 
-A simple weather checker app live at : 
+A simple weather using webapi and unsplash api checker app live at : 
