@@ -1,2 +1,3 @@
-# template
-template for projects
+# Weather checker
+
+A simple weather checker app live at : 
